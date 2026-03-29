@@ -15,5 +15,5 @@
         TP çeviri kılavuzunun hazırlanması                                : h2, after a1, 5d
 
         section Çeviri
-        TP çeviri :5d 
+        TP çeviri :50d 
 ```
